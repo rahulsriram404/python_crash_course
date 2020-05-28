@@ -84,7 +84,7 @@ git clone https://github.com/rahulsriram404/python_crash_course.git .
 git checkout boilerplate
 ```
 
-- Checkout to the **_master_** brnach to get the completed code :
+- Checkout to the **_master_** branch to get the completed code :
 
 ```bash
 git checkout master
