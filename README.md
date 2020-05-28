@@ -1,6 +1,11 @@
 # GUIDE FOR THE TUTORIAL :
 
-## A) INSTALLING VSCODE :
+## **A) OVERVIEW :**
+![Overview](OverView.png)
+
+---
+
+## **B) INSTALLING VSCODE :**
 
 1. If you're on **Windows** (*eww*):
    1. Visit [VSCode](https://www.code.visualstudio.com).
@@ -38,7 +43,7 @@
 
 ---
 
-## B) INSTALLING PYTHON :
+## **C) INSTALLING PYTHON :**
 
 1. If you're on **Windows** :
    1. Click this [link](https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe) to download.
@@ -47,7 +52,7 @@
 1. If you're on **Linux** :
    
    Install it using your distro's package manager.
-   ```
+   ```bash
    $ # For example, on Debain-based systems :
    $ sudo apt-get update
    $ sudo apt-get install python3
@@ -63,12 +68,26 @@
 
 ---
 
-## Get the boiler-plate and the completed code :
+## **D) Get the boiler-plate and the completed code :**
 
 - Make sure you've [git](https://git-scm.com/) installed on your system.
-- The *__boilerplate__* branch will have initial code, and the **_completed_** branch will have the completed code.
-- Clone the repo to get the code :
+- The *__boilerplate__* branch will have initial code, and the **_master_** branch will have the completed code.
+- Clone the repo in your desired directory, to get the code :
    
-```git
-
+```bash
+# The dot is to clone the repo in the current directory.
+git clone https://github.com/rahulsriram404/python_crash_course.git .
 ```
+- Checkout to the *__boilerplate__* branch to get the initial code :
+
+```bash
+git checkout boilerplate
+```
+
+- Checkout to the **_master_** brnach to get the completed code :
+
+```bash
+git checkout master
+```
+
+> Happy Coding!
