@@ -59,7 +59,8 @@
    ```
 
 1. If you're on a **Mac** :
-   1. Install it using **homebrew**.
+   
+   Install it using **homebrew**.
    
    ```bash
    brew search python
@@ -76,7 +77,7 @@
    
 ```bash
 # The dot is to clone the repo in the current directory.
-git clone https://github.com/rahulsriram404/python_crash_course.git .
+git clone https://github.com/theskinnycoder/python_crash_course.git .
 ```
 - Checkout to the *__boilerplate__* branch to get the initial code :
 
