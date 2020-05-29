@@ -1,7 +1,7 @@
 # GUIDE FOR THE TUTORIAL :
 
 ## **A) OVERVIEW :**
-![Overview](OverView.png)
+![Overview](Images/OverView.png)
 
 ---
 

@@ -1,12 +1,3 @@
-# 0) COMMENTS :
-# 0A) Single-Line Comments :
-# This is a comment
-
-# 0B) Multi-Line Comments/DocStrings :
-'''This is
-a multi-line
-comment'''
-
 # 1) INPUT-OUTPUT :
 
 # 1A) Use print() for o/p :
