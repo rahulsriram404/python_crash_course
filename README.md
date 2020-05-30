@@ -72,23 +72,23 @@
 ## **D) Get the boiler-plate and the completed code :**
 
 - Make sure you've [git](https://git-scm.com/) installed on your system.
-- The *__boilerplate__* branch will have initial code, and the **_master_** branch will have the completed code.
+- The *__master__* branch will have initial code, and the **_completed_** branch will have the completed code.
 - Clone the repo in your desired directory, to get the code :
    
 ```bash
 # The dot is to clone the repo in the current directory.
 git clone https://github.com/theskinnycoder/python_crash_course.git .
 ```
-- Checkout to the *__boilerplate__* branch to get the initial code :
-
-```bash
-git checkout boilerplate
-```
-
-- Checkout to the **_master_** branch to get the completed code :
+- Checkout to the *__master__* branch to get the initial code :
 
 ```bash
 git checkout master
+```
+
+- Checkout to the **_completed_** branch to get the completed code :
+
+```bash
+git checkout completed
 ```
 
 > Happy Coding!
