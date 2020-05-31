@@ -3,11 +3,16 @@
 TASK: Write a program to find if a no. is -ve, 0, +ve (and demonstrate scope)
 '''
 
+num = int(input())
+if num > 0: 
+    print('Greater than zero') # This comes under the scope of 'if-block'
+elif num < 0: # Multiple elif statements can be there
+    print('Less than zero')
+else:
+    print('Zero')
+
 '''
-NOTE: 
-1) Membership operators will be discussed later in this video.
-2) The following will be discussed in the coming videos :
-- LEGB rule for scope, 'global' and 'nonlocal' statements
-- Terniary Conditionals
-- Chaining comparision operators in Python
+NOTE: The following will be discussed in the coming videos :
+1) LEGB rule for scope, 'global' and 'nonlocal' statements
+2) Terniary Conditionals
 '''

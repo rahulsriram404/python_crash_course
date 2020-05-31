@@ -1,4 +1,5 @@
 # 2) VARIABLES :
+
 '''
 NOTE:
 a) No data-type is needed to be mentioned when declaring.
@@ -12,9 +13,9 @@ c) Variables can't be just declared and left, they have to be initialized at the
 x = 5 # Use the assignment operator to assign literals/values to variables.
 
 # print() can print the variable's value or the value itself to the console
-print(x)
-print(5)
+print(x) # the value of the variable
+print(5) # a value/ a literal itself
 
 # 2B) Assign another value to already declared variable :
-x = 6
+x = 'rahul' # 'x' is already defined in line no. 11
 print(x)
